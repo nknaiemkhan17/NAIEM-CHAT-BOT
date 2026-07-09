@@ -9,7 +9,7 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
+  <img src="[https://i.imgur.com/aYSN2Ze.jpeg" width="300">
 </p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
@@ -23,7 +23,7 @@
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By NK NAIEM KHAN
   </span>
 
 </p>
